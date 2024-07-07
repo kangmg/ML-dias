@@ -1,0 +1,268 @@
+{
+    "title": "",
+    "note": "",
+    "trajectory_file": "sn2.xyz",
+    "submission_date": "2024-07-07 16:55",
+    "result": {
+        "0": {
+            "molecule": {
+                "total": -83680.47564035363,
+                "distortion": 1.8369206057541305,
+                "interaction": -83682.31256095938
+            },
+            "fragment_0": {
+                "distortion": 1.8369206057541305
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "1": {
+            "molecule": {
+                "total": -83680.53031160342,
+                "distortion": 1.5526651042309823,
+                "interaction": -83682.08297670765
+            },
+            "fragment_0": {
+                "distortion": 1.5526651042309823
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "2": {
+            "molecule": {
+                "total": -83680.543796727,
+                "distortion": 1.2979002701176796,
+                "interaction": -83681.84169699711
+            },
+            "fragment_0": {
+                "distortion": 1.2979002701176796
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "3": {
+            "molecule": {
+                "total": -83680.53227730062,
+                "distortion": 1.0547856970370049,
+                "interaction": -83681.58706299766
+            },
+            "fragment_0": {
+                "distortion": 1.0547856970370049
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "4": {
+            "molecule": {
+                "total": -83680.5013416995,
+                "distortion": 0.8425830000196584,
+                "interaction": -83681.34392469953
+            },
+            "fragment_0": {
+                "distortion": 0.8425830000196584
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "5": {
+            "molecule": {
+                "total": -83680.46631871068,
+                "distortion": 0.6834877822548151,
+                "interaction": -83681.14980649293
+            },
+            "fragment_0": {
+                "distortion": 0.6834877822548151
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "6": {
+            "molecule": {
+                "total": -83680.42750045375,
+                "distortion": 0.5634935701091308,
+                "interaction": -83680.99099402386
+            },
+            "fragment_0": {
+                "distortion": 0.5634935701091308
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "7": {
+            "molecule": {
+                "total": -83680.38342684871,
+                "distortion": 0.45637521795288194,
+                "interaction": -83680.83980206666
+            },
+            "fragment_0": {
+                "distortion": 0.45637521795288194
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "8": {
+            "molecule": {
+                "total": -83680.34938866619,
+                "distortion": 0.3598462019726867,
+                "interaction": -83680.70923486816
+            },
+            "fragment_0": {
+                "distortion": 0.3598462019726867
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "9": {
+            "molecule": {
+                "total": -83680.32501119036,
+                "distortion": 0.2622909529018216,
+                "interaction": -83680.58730214326
+            },
+            "fragment_0": {
+                "distortion": 0.2622909529018216
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "10": {
+            "molecule": {
+                "total": -83680.32175986034,
+                "distortion": 0.1807530607911758,
+                "interaction": -83680.50251292113
+            },
+            "fragment_0": {
+                "distortion": 0.1807530607911758
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "11": {
+            "molecule": {
+                "total": -83680.34285900279,
+                "distortion": 0.11269276720122434,
+                "interaction": -83680.45555176999
+            },
+            "fragment_0": {
+                "distortion": 0.11269276720122434
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "12": {
+            "molecule": {
+                "total": -83680.38310365225,
+                "distortion": 0.06512554991059005,
+                "interaction": -83680.44822920216
+            },
+            "fragment_0": {
+                "distortion": 0.06512554991059005
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "13": {
+            "molecule": {
+                "total": -83680.43747856678,
+                "distortion": 0.03453940879262518,
+                "interaction": -83680.47201797557
+            },
+            "fragment_0": {
+                "distortion": 0.03453940879262518
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "14": {
+            "molecule": {
+                "total": -83680.50122056116,
+                "distortion": 0.024611844957689755,
+                "interaction": -83680.52583240611
+            },
+            "fragment_0": {
+                "distortion": 0.024611844957689755
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "15": {
+            "molecule": {
+                "total": -83680.56933815713,
+                "distortion": 0.022870377331855707,
+                "interaction": -83680.59220853446
+            },
+            "fragment_0": {
+                "distortion": 0.022870377331855707
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "16": {
+            "molecule": {
+                "total": -83680.6437838251,
+                "distortion": 0.022131769655970857,
+                "interaction": -83680.66591559476
+            },
+            "fragment_0": {
+                "distortion": 0.022131769655970857
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "17": {
+            "molecule": {
+                "total": -83680.71074275984,
+                "distortion": 0.028768762334948406,
+                "interaction": -83680.73951152217
+            },
+            "fragment_0": {
+                "distortion": 0.028768762334948406
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "18": {
+            "molecule": {
+                "total": -83680.78581654385,
+                "distortion": 0.08403475223167334,
+                "interaction": -83680.86985129608
+            },
+            "fragment_0": {
+                "distortion": 0.08403475223167334
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        },
+        "19": {
+            "molecule": {
+                "total": -83680.7814330138,
+                "distortion": 0.08512637094827369,
+                "interaction": -83680.86655938475
+            },
+            "fragment_0": {
+                "distortion": 0.08512637094827369
+            },
+            "fragment_1": {
+                "distortion": 0.0
+            }
+        }
+    }
+}
